@@ -24,10 +24,6 @@ Delhi-PM2.5-Prediction/
 │── aqi_model.joblib # Saved ML model
 │── README.md # Project Readme
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 How to Run
