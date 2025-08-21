@@ -18,10 +18,15 @@ This project builds a **machine learning model** to predict PM2.5 levels and pro
 ## 🗂️ Project Structure
 Delhi-PM2.5-Prediction/
 │── Research Paper Phase 1.docx # Project documentation
+
 │── DelhiAQI.ipynb # Jupyter Notebook (EDA + Model Training)
+
 │── app2.py # Streamlit App Code
+
 │── delhi_aqi.csv # Dataset (if allowed to share, else mention source)
+
 │── aqi_model.joblib # Saved ML model
+
 │── README.md # Project Readme
 
 ---
@@ -47,5 +52,6 @@ Feature Importance plot (PM10 & lag features strongly influence predictions)
 📈 Build an Urban Health Risk Index (UHRI) for smarter public health forecasting
 
 👩‍💻 Author
-Developed by [Your Name] (BCA Student)
-📧 Contact: your-email@example.com
+Developed by Vinayak Jain 
+📧 Contact: vinayakjainn11@gmail.com
+
