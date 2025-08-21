@@ -23,7 +23,7 @@ Delhi-PM2.5-Prediction/
 
 │── app2.py # Streamlit App Code
 
-│── delhi_aqi.csv # Dataset (if allowed to share, else mention source)
+│── delhi_aqi.csv # Dataset
 
 │── aqi_model.joblib # Saved ML model
 
@@ -35,10 +35,13 @@ Delhi-PM2.5-Prediction/
 ### 1. Clone the repo
 git clone https://github.com/your-username/Delhi-PM2.5-Prediction.git
 cd Delhi-PM2.5-Prediction
+
 2. Install dependencies
 pip install -r requirements.txt
-3. Run Streamlit App
+
+4. Run Streamlit App
 streamlit run app2.py
+
 📊 Example Output
 Prediction Example: PM2.5 ≈ 220.55 µg/m³
 
